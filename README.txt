@@ -9,3 +9,4 @@ pip install -r requirements.txt
 実行　python backend.py
 実行してからhttp://127.0.0.1:5555/ にブラウザでアクセスする
 python3 backend.py
+git pull で更新
